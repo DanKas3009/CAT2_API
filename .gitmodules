@@ -1,0 +1,6 @@
+[submodule "api-project"]
+	path = api-project
+	url = https://github.com/DanKas3009/api-project.git
+[submodule "e-commerce"]
+	path = e-commerce
+	url = https://github.com/DanKas3009/E-Commerce_App.git
